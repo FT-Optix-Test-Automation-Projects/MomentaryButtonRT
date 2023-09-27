@@ -29,5 +29,9 @@ Project:
    Uri: 'urn:FTOptix:NativeUI'
    Module: FTOptix.NativeUI
    Version: 2.0
+  8:
+   Uri: 'urn:FTOptix:WebUI'
+   Module: FTOptix.WebUI
+   Version: 1.1
  Nodes:
  - File: Nodes/MomentaryButtonRT.yaml
