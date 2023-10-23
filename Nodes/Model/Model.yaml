@@ -1,2 +1,18 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Id: g=e33957a8a1da0c72848c8c89f73f8c6a
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: Variable2
+  Id: g=dfef04a59ae2a71affeec08eb90ecb5d
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: Variable3
+  Id: g=8b61ecb1574a62e3354faf2a5fc206dc
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false

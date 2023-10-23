@@ -16,7 +16,7 @@ Project:
   3:
    Uri: 'urn:FTOptix:UI'
    Module: FTOptix.UI
-   Version: 8.2
+   Version: 11.0
   4:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
@@ -24,7 +24,7 @@ Project:
   5:
    Uri: 'urn:FTOptix:HMIProject'
    Module: FTOptix.HMIProject
-   Version: 5.1
+   Version: 5.2
   6:
    Uri: 'urn:FTOptix:NativeUI'
    Module: FTOptix.NativeUI
@@ -33,5 +33,17 @@ Project:
    Uri: 'urn:FTOptix:WebUI'
    Module: FTOptix.WebUI
    Version: 1.1
+  9:
+   Uri: 'urn:FTOptix:DataLogger'
+   Module: FTOptix.DataLogger
+   Version: 1.0
+  10:
+   Uri: 'urn:FTOptix:Store'
+   Module: FTOptix.Store
+   Version: 1.0
+  11:
+   Uri: 'urn:FTOptix:SQLiteStore'
+   Module: FTOptix.SQLiteStore
+   Version: 1.0
  Nodes:
  - File: Nodes/MomentaryButtonRT.yaml
