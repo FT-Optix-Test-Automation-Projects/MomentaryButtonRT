@@ -1369,6 +1369,11 @@ Children:
         Type: DynamicLink
         DataType: NodePath
         Value: "../Columns/Timestamp@NodeId"
+    - Name: SortOrder
+      Type: BaseDataVariableType
+      DataType: SortOrderEnum
+      ModellingRule: Optional
+      Value: 1
 - File: Screens/Screens.yaml
 - Name: WebPresentationEngine
   Type: ns=8;PresentationEngine
