@@ -30,10 +30,6 @@ Children:
           Type: StoreColumn
           DataType: UtcTime
           Value: "1601-01-01T00:00:00.0000000"
-        - Name: LocalTimestamp
-          Type: StoreColumn
-          DataType: DateTime
-          Value: "1601-01-01T00:00:00.0000000"
         - Name: Variable1
           Type: StoreColumn
           DataType: Boolean
@@ -43,6 +39,18 @@ Children:
           DataType: Boolean
           Value: false
         - Name: Variable3
+          Type: StoreColumn
+          DataType: Boolean
+          Value: false
+        - Name: MomentaryButton1
+          Type: StoreColumn
+          DataType: Boolean
+          Value: false
+        - Name: MomentaryButton2
+          Type: StoreColumn
+          DataType: Boolean
+          Value: false
+        - Name: MomentaryButton3
           Type: StoreColumn
           DataType: Boolean
           Value: false

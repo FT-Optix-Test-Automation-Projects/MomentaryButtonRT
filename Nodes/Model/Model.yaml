@@ -16,3 +16,18 @@ Children:
   Type: BaseDataVariableType
   DataType: Boolean
   Value: false
+- Name: MomentaryButtonPressed1
+  Id: g=d93917c8e0af79cf07a0ffe0cf6de27a
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: MomentaryButtonPressed2
+  Id: g=1889a4041ead156b9e3f1e519fcafb6f
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: MomentaryButtonPressed3
+  Id: g=9833bde629965545874d11a7c6e5fb83
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
